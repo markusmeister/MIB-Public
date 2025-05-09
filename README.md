@@ -11,4 +11,7 @@ The python code that produced them is in the Jupyter notebooks `Figures_Ch_XX.ip
 
 The directory `data/` contains files needed to produce some of the figures.
 
+## Solutions
+Solutions to some of the exercises are in the directory `solutions/`.
 
+To submit a solution that we may display here (with author credit of course), please send it in form of a Jupyter notebook to `contact@mathinbio.com`.
